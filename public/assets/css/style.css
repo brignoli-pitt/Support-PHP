@@ -1,3 +1,11 @@
 body {
-    color: #f76c6c;
+    color: white;
+}
+
+ul {
+    display:none;
+}
+
+li {
+    opacity:0;
 }
